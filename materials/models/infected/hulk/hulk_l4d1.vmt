@@ -1,0 +1,18 @@
+UnlitGeneric
+{
+$baseTexture "models\infected\hulk/hulk_l4d1"
+$bumpmap "models\infected\hulk\hulk_l4d1_normal"
+$phong 1
+$ignorez 1
+$phongfresnelrange_0 ".01"
+$phongfresnelrange_1 ".15"
+$phongfresnelrange_2 1
+$phongfresnelranges "[.5 .15 1]"
+$phongtint "[1 0.5 0]"
+$phongboost 8
+$phongexponent 6
+$ambientocclusion 1
+$color2 "[1 0.5 0]"
+$selfillum 1
+$selfillumtint "[1 0.5 0]"
+}

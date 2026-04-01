@@ -1,0 +1,18 @@
+UnlitGeneric
+{
+$baseTexture "models\infected\hunter\hunter_01"
+$bumpmap "models\infected\hunter\hunter_normal"
+$phongexponenttexture "models\infected\hunter\hunter_exponent"
+$halflambert 0
+$phong 1
+$ignorez 1
+$phongboost 3
+
+
+$phongfresnelranges "[.2 .5 5]"
+$allowdiffusemodulation 0
+$lightwarptexture "models\survivors\coach\coach_head_wrp"
+$color2 "[0 1 0]"
+$selfillum 1
+$selfillumtint "[0 1 0]"
+}
